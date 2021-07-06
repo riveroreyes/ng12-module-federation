@@ -104,7 +104,8 @@ Teams using Nx gain the advantage of building full-stack applications with their
 
 Visit [Nx Cloud](https://nx.app/) to learn more.
 
-
+## Credits
+* https://www.youtube.com/watch?v=-0jJhroSCRw
 
 ## ☁ Instructions for this project
 
