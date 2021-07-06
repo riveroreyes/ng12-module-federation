@@ -103,3 +103,15 @@ Nx Cloud pairs with Nx in order to enable you to build and test code more rapidl
 Teams using Nx gain the advantage of building full-stack applications with their preferred framework alongside Nx’s advanced code generation and project dependency graph, plus a unified experience for both frontend and backend developers.
 
 Visit [Nx Cloud](https://nx.app/) to learn more.
+
+
+
+## ☁ Instructions for this project
+
+* npm install
+* ng build --configuration=development remote
+* ng build --configuration=development leftnav
+* Afterward, go to the /dist/apps/ folder, and there, run http-server or if you want use PHP: php -S localhost:8080
+
+* ng serve --project=container
+
