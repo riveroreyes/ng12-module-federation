@@ -115,3 +115,5 @@ Visit [Nx Cloud](https://nx.app/) to learn more.
 
 * ng serve --project=container
 
+## Screenshots
+<img src="./repo/figure01.jpeg">
